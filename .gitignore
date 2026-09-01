@@ -27,3 +27,4 @@ _gh_*.ps1
 *.tmp
 Thumbs.db
 desktop.ini
+*.pdf
