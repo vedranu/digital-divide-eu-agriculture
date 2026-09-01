@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "Regional digital divide in European Union agriculture with a focus on Croatia — replication package"
+type: software
+authors:
+  - family-names: "Uroš"
+    given-names: "Vedran"
+    affiliation: "University of Zagreb, Faculty of Organization and Informatics, Varaždin, Croatia"
+  - family-names: "Mandinić"
+    given-names: "Sandra"
+    affiliation: "University of Applied Sciences \"Marko Marulić\" of Knin, Knin, Croatia"
+version: "1.0.0"
+date-released: "2026-09-01"
+repository-code: "https://github.com/vedranu/digital-divide-eu-agriculture"
+keywords:
+  - digital agriculture
+  - precision farming
+  - digital divide
+  - NUTS 2 regions
+  - Croatia
+  - Eurostat
+license: MIT
