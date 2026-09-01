@@ -16,7 +16,7 @@ PROCEDURA_GITHUB.md
 # Zalutale/lokalne datoteke
 New Tekstni dokument.txt
 *.txt
-_gh_setup.ps1
+_gh_*.ps1
 
 # MATLAB privremene datoteke
 *.asv
