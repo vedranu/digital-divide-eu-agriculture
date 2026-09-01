@@ -1,5 +1,7 @@
 # Regional digital divide in European Union agriculture with a focus on Croatia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22239258.svg)](https://doi.org/10.5281/zenodo.22239258)
+
 Replication package for the paper presented at the 8th International Scientific and Professional Conference **"Innovation and Agribusiness"** (Croatian Society of Agricultural Economists, Osijek, 27 November 2026).
 
 **Authors:** Vedran Uroš (University of Zagreb, Faculty of Organization and Informatics, Varaždin) · Sandra Mandinić (University of Applied Sciences "Marko Marulić" of Knin) · Marko Jelić (University of Applied Sciences "Marko Marulić" of Knin)
@@ -49,7 +51,9 @@ All data are open Eurostat data (© European Union, reused under the [Eurostat r
 
 ## Citation
 
-Uroš V., Mandinić S. (2026). Regional digital divide in European Union agriculture with a focus on Croatia. In: Proceedings of the 8th International Scientific and Professional Conference "Innovation and Agribusiness", Osijek, Croatia.
+Paper: Uroš V., Mandinić S., Jelić M. (2026). Regional digital divide in European Union agriculture with a focus on Croatia. In: Proceedings of the 8th International Scientific and Professional Conference "Innovation and Agribusiness", Osijek, Croatia.
+
+Data and code: Uroš V., Mandinić S., Jelić M. (2026). Regional digital divide in European Union agriculture with a focus on Croatia — replication package. Zenodo. https://doi.org/10.5281/zenodo.22239258
 
 ## License
 
