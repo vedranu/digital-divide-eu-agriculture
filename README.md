@@ -2,7 +2,7 @@
 
 Replication package for the paper presented at the 8th International Scientific and Professional Conference **"Innovation and Agribusiness"** (Croatian Society of Agricultural Economists, Osijek, 27 November 2026).
 
-**Authors:** Vedran Uroš (University of Zagreb, Faculty of Organization and Informatics, Varaždin) · Sandra Mandinić (University of Applied Sciences "Marko Marulić" of Knin)
+**Authors:** Vedran Uroš (University of Zagreb, Faculty of Organization and Informatics, Varaždin) · Sandra Mandinić (University of Applied Sciences "Marko Marulić" of Knin) · Marko Jelić (University of Applied Sciences "Marko Marulić" of Knin)
 
 ## What the paper does
 
