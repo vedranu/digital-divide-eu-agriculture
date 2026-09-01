@@ -1,0 +1,29 @@
+# Veliki sirovi Eurostat izvozi (preuzimaju se s download_eurostat.ps1)
+# ef_mp_digi.csv (40 MB) JE u repozitoriju; ova dva prelaze/guraju GitHub limite:
+data/ef_mp_digicr.csv
+data/isoc_sk_dskl_i21.csv
+data/ef_m_farmang_2023.csv
+data/isoc_internet_hh.csv
+
+# Materijali skupa (nisu naši za objavu)
+CONFERENCE-INVITATION*.pdf
+Upute_Instructions*.pdf
+PROCEDURA_GITHUB.md
+
+# Rukopisi i dokumenti — ne idu na GitHub (samo skripte i podaci)
+*.docx
+
+# Zalutale/lokalne datoteke
+New Tekstni dokument.txt
+*.txt
+_gh_setup.ps1
+
+# MATLAB privremene datoteke
+*.asv
+*.m~
+
+# Office/Windows privremene datoteke
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
